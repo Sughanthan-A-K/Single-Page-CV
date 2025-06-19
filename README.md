@@ -6,21 +6,25 @@ This is a structured, single-page CV built using only **semantic HTML**. It show
 
 👉 [View CV Online](https://sughanthan-a-k.github.io/Single-Page-CV/)
 
+## 🗺️ Project Page
+
+👉 [View on Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+
 ## 🧾 Key Highlights
 
-- ✅ Semantic HTML5 structure
-- ✅ SEO Meta Tags
-- ✅ Open Graph (OG) Tags for social media sharing
-- ✅ Favicon included
-- ✅ Organized sections for future styling and expansion
+- ✅ Semantic HTML5 structure  
+- ✅ SEO Meta Tags  
+- ✅ Open Graph (OG) Tags for social media sharing  
+- ✅ Favicon included  
+- ✅ Organized sections for future styling and expansion  
 
 ## 📌 CV Sections
 
-- **Header**: Name, title, and contact information
-- **Skills**: Technologies and tools I work with
-- **Education**: Academic background with CGPA
-- **Experience**: Work and freelance projects
-- **Across the Internet**: GitHub and LinkedIn
+- **Header**: Name, title, and contact information  
+- **Skills**: Technologies and tools I work with  
+- **Education**: Academic background with CGPA  
+- **Experience**: Work and freelance projects  
+- **Across the Internet**: GitHub and LinkedIn  
 
 ## 📬 Project Purpose
 
